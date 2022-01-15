@@ -1,0 +1,16 @@
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.exe
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.deps.json
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.runtimeconfig.json
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.runtimeconfig.dev.json
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.dll
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\bin\Debug\netcoreapp3.1\TasksAsyncAwait.pdb
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.csproj.AssemblyReference.cache
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.Form1.resources
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.csproj.GenerateResource.cache
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.AssemblyInfoInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.AssemblyInfo.cs
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.dll
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.pdb
+C:\Cursos\Curso C# Avançado\Seção 7 - Tasks\TasksAsyncAwait\TasksAsyncAwait\obj\Debug\netcoreapp3.1\TasksAsyncAwait.genruntimeconfig.cache
